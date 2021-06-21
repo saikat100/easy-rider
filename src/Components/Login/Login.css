@@ -1,0 +1,15 @@
+.the_login_div{
+    background-color: white;
+    min-height: 100vh;
+}
+.login_form_width{
+    width: 350px;
+    min-height: 200px;
+}
+.sign_login_align{
+    text-align: end;
+}
+hr {
+    width:150px;
+  
+}

@@ -1,0 +1,8 @@
+.button{
+  background-image: linear-gradient(to bottom, #1f1317 0%, #330c1b 100%);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 3px 15px;
+    cursor: pointer;
+}

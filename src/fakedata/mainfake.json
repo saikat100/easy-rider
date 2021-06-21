@@ -1,0 +1,30 @@
+ [
+    {
+        "id": 20225,
+        "type": "bike",
+        "picture": "https://i.ibb.co/N9sy0C8/bike.png",
+        "passenger": 4,
+        "cost": 50
+      },
+      {
+        "id": 201225,
+        "type": "car",
+        "picture": "https://i.ibb.co/hKjz0JJ/car-cartoon-sticker-retro-style-260nw-566814880-removebg-preview.png",
+        "passenger": 4,
+        "cost": 50
+      },
+      {
+        "id": 30225,
+        "type": "train",
+        "picture": "https://i.ibb.co/sQsfg1D/0-9067-modern-train-png-clip-art-train-png-removebg-preview.png",
+        "passenger": 3,
+        "cost": 55
+      },
+      {
+        "id": 510225,
+        "type": "bus",
+        "picture": "https://i.ibb.co/SK6Bsyn/bus-cartoon-flat-illustration-public-transportation-or-school-bus-isolated-on-white-background-urban.png",
+        "passenger": 4,
+        "cost": 45
+      }
+]
