@@ -14,8 +14,8 @@
 * Google Maps
 
 ## Screenshots 
-![](screenShot/s1.jpg)
-![](screenShot/s2.jpg)
-![](screenShot/s3.jpg)
-![](screenShot/s4.jpg)
-![](screenShot/s5.jpg)
+![](screenShot/s1.PNG)
+![](screenShot/s2.PNG)
+![](screenShot/s3.PNG)
+![](screenShot/s4.PNG)
+![](screenShot/s5.PNG)
